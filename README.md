@@ -9,5 +9,5 @@ I'm Haris Ghafoor, an AI Developer with a focus on Predictive Analytics. Welcome
 - 📫 You can reach me through email at [harisghafoor2000@gmail.com](mailto:harisghafoor2000@gmail.com).
 - 😄 Fun fact: I enjoy exploring the intersection of AI and other domains, such as healthcare and finance.
 
-You can also visit my personal website at [ghafoorharis.me](ghafoorharis.me) to learn more about my work and projects.
+You can also visit my personal website at [ghafoorharis.me](https://ghafoorharis.me/) to learn more about my work and projects.
 
